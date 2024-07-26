@@ -1,0 +1,4 @@
+测试截止到30000时失效原因请运行Question1_bugAnalysis.mlx
+测试截止到200000时失效原因请运行Question2_bugAnalysisl.mlx
+
+Question1_bugAnalysis.mlx和Question2_bugAnalysis.mlx会调用swA.m和swB.m判断切换器状态，会调用system_state_bugAnalysis.m判断系统状态。

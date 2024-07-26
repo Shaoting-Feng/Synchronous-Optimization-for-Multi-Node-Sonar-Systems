@@ -1,0 +1,2 @@
+测试可靠性请运行Question1_dual.mlx，测试平均寿命请运行Question2_dual.mlx。
+Question1_dual.mlx和Question2_dual.mlx会调用swA.m和swB.m判断切换器状态，会调用system_state_dual.m判断系统状态。
