@@ -1,4 +1,4 @@
-# System Optimization of Synchronous in Multi-node Sonar System
+# Synchronous Optimization for Multi-Node Sonar Systems
 
 This project explores the reliability, average life, and optimal node quantity of a multi-node sonar system, including master-slave nodes and a clock bus. Using statistics and Monte Carlo methods, we model the system hierarchically and employ a variable-step Markov chain to analyze its properties.
 
