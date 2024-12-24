@@ -8,6 +8,8 @@ This project investigates a multi-node sonar system's synchronous clock mechanis
 ## System Modeling
 The system is modeled hierarchically, and a variable-step Markov chain is used to explore its properties. This approach helps in understanding the system's behavior and identifying failure reasons.
 
+<img width="386" alt="Screenshot 2024-12-24 at 11 48 56 AM" src="https://github.com/user-attachments/assets/476882de-7de6-4493-a134-45377506d2c8" />
+
 ## Optimization Scheme
 After analyzing the system's failure reasons, a dual-bus system is proposed as an optimization scheme. This new system is compared with the original system's theoretical availability values.
 
